@@ -1,3 +1,15 @@
+
+/*In this code, I wrote different kind of Searching and Sorting Algorithms. 
+  Also here, I used "User Define Function" for good understanding about 
+  this source code. And everyone can easily understand this code and also 
+  clear there most of the Algorithm's doubt.
+  
+  Marzan Islam
+  7th Semester
+  Computer Science & Engineering
+  Dhaka International University
+*/
+
 #include<stdio.h>
 int main()
 {
@@ -317,4 +329,5 @@ void radixSort (int a[], int n)
         divisor *= 10;
     }
 }
+
 
